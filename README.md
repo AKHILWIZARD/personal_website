@@ -11,13 +11,13 @@ This is my first website design assignment covering the basic steps in website d
 
 
 ## Features
--[css]
--html
--bootstrap
--responsive
+- css
+- html
+- bootstrap
+- responsive
 
 ## Installation
--bootstrap cdn link:[https://getbootstrap.com/docs/5.0/getting-started/introduction/](URL)
+- bootstrap cdn link:[https://getbootstrap.com/docs/5.0/getting-started/introduction/](URL)
 
 ## Screenshort
 
