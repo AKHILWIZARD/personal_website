@@ -11,7 +11,7 @@ This is my first website design assignment covering the basic steps in website d
 
 
 ## Features
--css
+-[css]
 -html
 -bootstrap
 -responsive
